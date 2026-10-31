@@ -2,7 +2,7 @@
 
 # Siyamak Saadatpour
 
-### Senior Unity Game Developer · Multiplayer Systems Engineer · Technical Lead
+### Founder & CEO - Azar Dadeh Pardaz Vira Tav | Senior Unity Game Developer
 
 **13+ years designing, building and shipping interactive experiences across games, 3D applications and real-time networking.**
 
@@ -49,6 +49,20 @@ One of my most important game-development projects, **Helium Robots War** brings
 [![Play Helium Robots War](https://img.shields.io/badge/Cafe_Bazaar-Helium_Robots_War-00A985?style=for-the-badge)](https://cafebazaar.ir/app/com.tab.siya_in)
 
 > The installation figure comes from the public store listing and may change.
+
+### 🥉 Online Rock–Paper–Scissors — National Casual Camp Third Place
+
+**Published multiplayer game · 38K installs on Cafe Bazaar · Third place in National Casual Camp (2020)**
+
+A competitive **two-player online Rock–Paper–Scissors** game published on Cafe Bazaar by **Raymond Games**. During my work with **North Studio**, I helped develop the gameplay and real-time multiplayer synchronization using **Socket.IO and custom networking protocols**.
+
+The published game features online matches, offline play against a bot, player messaging, customizable cards and special abilities. My professional résumé records **third place nationally in Casual Camp (2020)** for this game.
+
+**My focus:** Multiplayer gameplay · Network synchronization · Online game systems
+
+[![Play Rock Paper Scissors on Cafe Bazaar](https://img.shields.io/badge/Cafe_Bazaar-Play_Online_RPS-00A985?style=for-the-badge)](https://cafebazaar.ir/app/com.pooyahonar.rps)
+
+> The store listing reports 38K installs (checked November 2026). The competition award is recorded in my professional résumé.
 
 ### 🛒 TapalKala — Full-stack E-commerce Platform
 
@@ -112,7 +126,7 @@ Development work on the **MetaRang / Metaverse-Rang** ecosystem, including Unity
 ## Education, recognition & teaching
 
 - **Professional Computer Engineering**, Islamic Azad University, Tabriz.
-- **Third place — National Casual Camp (2020)**, for an online Rock–Paper–Scissors game.
+- **Third place — National Casual Camp (2020)**, for [Online Rock-Paper-Scissors](https://cafebazaar.ir/app/com.pooyahonar.rps).
 - **International Pedagogy Certificate**, Technical and Vocational Training Organization / ILO.
 - Seven years teaching programming, game development, 3D modeling and animation.
 
