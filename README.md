@@ -36,6 +36,39 @@ Based in **Tabriz, Iran**. Interested in robust multiplayer experiences, scalabl
 | 🎨 **3D production** | Autodesk Maya, modeling, animation, texturing, Substance Painter and environment production |
 | 👥 **Technical leadership** | Project planning, team coordination, technical mentorship and end-to-end delivery |
 
+## Featured projects
+
+### 🏆 Helium Robots War — Published Unity Game
+
+**Original game-development portfolio highlight · Published in 2018 · 58K installs on Cafe Bazaar (checked November 2026)**
+
+One of my most important game-development projects, **Helium Robots War** brings together my work in gameplay engineering and 3D production. I created game environments, characters and animations with **Autodesk Maya**, and developed lighting, sound and gameplay systems using **Unity and C#**.
+
+**Technologies:** Unity · C# · Autodesk Maya · 3D modeling · Animation · Gameplay programming
+
+[![Play Helium Robots War](https://img.shields.io/badge/Cafe_Bazaar-Helium_Robots_War-00A985?style=for-the-badge)](https://cafebazaar.ir/app/com.tab.siya_in)
+
+> The installation figure comes from the public store listing and may change.
+
+### 🛒 TapalKala — Full-stack E-commerce Platform
+
+**Commerce application engineering · [tapalkala.ir](https://tapalkala.ir/)**
+
+Building a multi-role e-commerce system with a **React** frontend, **Node.js / Express** backend and **MongoDB** database. My development covers:
+
+- **Users and permissions:** customer, partner, company and admin roles; authentication and sessions.
+- **Products and pricing:** categories, products, inventory and exchange-rate-aware pricing.
+- **Commerce workflows:** carts, orders, checkout, shipping options and fulfillment.
+- **Company operations:** product ownership, sales attribution, ledger and settlement workflows.
+- **Financial features:** discount rules, transaction management and payment gateway integration work.
+- **Production engineering:** REST APIs, validation, security-focused design and deployment.
+
+**Stack:** React · JavaScript · Node.js · Express · MongoDB · REST APIs
+
+[![Visit TapalKala](https://img.shields.io/badge/Website-TapalKala.ir-0891B2?style=for-the-badge)](https://tapalkala.ir/)
+
+> Project source is private. Described modules were verified against the project archive; this does not imply that every payment workflow is publicly operational.
+
 ## Selected engineering work
 
 ### 🌐 Multiplayer 3D World & Metaverse Infrastructure
